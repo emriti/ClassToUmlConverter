@@ -1,6 +1,6 @@
 # ClassToUmlConverter
 This small application can help you converting C# classes into class diagrams. This project implementing 
-[PlantUmlClassDiagramGenerator.Library](https://github.com/pierre3/PlantUmlClassDiagramGenerator) and PlantUml.Net.
+[PlantUmlClassDiagramGenerator.Library](https://github.com/pierre3/PlantUmlClassDiagramGenerator) and [PlantUml.Net](https://www.nuget.org/packages/PlantUml.Net).
 
 ## Input project structure
 - InputRootFolder
