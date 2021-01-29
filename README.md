@@ -41,5 +41,7 @@ LocalGraphvizDotPath = "<your path>\\dot.exe",
 
 ## How to use the app
 ![Form](https://github.com/emriti/ClassToUmlConverter/blob/master/Assets/Form.png)
-
 Pick input folder for **InputRootFolder** and output folder for **OutputRootFolder** and click **start**
+
+## Sample Result
+![Sample](https://github.com/emriti/ClassToUmlConverter/blob/master/Assets/Sample.PNG)
