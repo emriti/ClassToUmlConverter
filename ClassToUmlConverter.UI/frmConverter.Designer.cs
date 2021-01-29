@@ -56,7 +56,7 @@ namespace ClassToUmlConverterUI
             this.txbInputFolder.ReadOnly = true;
             this.txbInputFolder.Size = new System.Drawing.Size(610, 23);
             this.txbInputFolder.TabIndex = 1;
-            this.txbInputFolder.Text = "";
+            this.txbInputFolder.Text = "C:\\Users\\emriti\\Desktop\\wow\\in";
             // 
             // txbOutputFolder
             // 
@@ -65,7 +65,7 @@ namespace ClassToUmlConverterUI
             this.txbOutputFolder.ReadOnly = true;
             this.txbOutputFolder.Size = new System.Drawing.Size(610, 23);
             this.txbOutputFolder.TabIndex = 5;
-            this.txbOutputFolder.Text = "";
+            this.txbOutputFolder.Text = "C:\\Users\\emriti\\Desktop\\wow\\test";
             // 
             // label3
             // 

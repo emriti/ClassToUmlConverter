@@ -38,7 +38,7 @@ namespace ClassToUmlConverter.Library
                     var factory = new RendererFactory();
                     var localSetting = new PlantUmlSettings()
                     {
-                        LocalPlantUmlPath = "",
+                        LocalPlantUmlPath = "C:\\Users\\emriti\\Desktop\\wow\\plantuml.jar",
                         LocalGraphvizDotPath = "C:\\Program Files\\Graphviz\\bin\\dot.exe",
                         RenderingMode = RenderingMode.Local
                     };
