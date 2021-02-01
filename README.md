@@ -26,11 +26,11 @@ This small application can help you converting C# classes into class diagrams. T
     
 ## Prerequisites
 ### PlantUml
-Download [PlantUml](http://plantuml.com/download). By default PlantUml.Net looks for plantuml.jar in the woring directory; you can specify an alternate location in PlantUmlSettings.
+Download [PlantUml](http://plantuml.com/download). Copy path to jar file into configuration that specified in configuration section.
 
 ### GraphViz Dot
 Install [GraphViz Dot](https://graphviz.gitlab.io/download/) You may need to set the GRAPHVIZ_DOT environment variable
-see the [PlantUml documentation](http://plantuml.com/graphviz-dot) for more detailed instructions.
+see the [PlantUml documentation](http://plantuml.com/graphviz-dot) for more detailed instructions. Copy path to dot.exe into configuration that specified in configuration section.
 
 ### Configuration
 Pointing configuration in **ClassToUmlConverterService.cs**
